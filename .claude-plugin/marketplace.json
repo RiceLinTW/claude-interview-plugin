@@ -1,0 +1,11 @@
+{
+  "name": "interview-plugin",
+  "owner": { "name": "RiceLinTW", "url": "https://github.com/RiceLinTW" },
+  "plugins": [
+    {
+      "name": "interview",
+      "source": { "source": "directory", "path": "./" },
+      "description": "iOS interview prep pipeline — calendar, resume review, quiz generation, scoring, and end-to-end orchestration."
+    }
+  ]
+}

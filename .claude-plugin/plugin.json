@@ -1,0 +1,8 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "iOS interview prep pipeline — calendar, resume review, quiz generation, scoring, and end-to-end orchestration.",
+  "author": { "name": "RiceLinTW", "url": "https://github.com/RiceLinTW" },
+  "homepage": "https://github.com/RiceLinTW/claude-interview-plugin",
+  "license": "MIT"
+}
