@@ -14,7 +14,7 @@ If a name argument was provided, use it. Otherwise ask.
 
 ## Step 2 — Read sources
 
-1. `{recruitment_root}/Candidate/{name}/Resume.Review.md` — level, red flags, strengths, tech stack, experience timeline
+1. `{recruitment_root}/Candidate/Ongoing/{name}/Resume.Review.md` — level, red flags, strengths, tech stack, experience timeline
 2. `{recruitment_root}/面試流程腳本.md` — base interview framework and phase structure
 
 ## Step 3 — Generate personalized script
@@ -56,4 +56,4 @@ Select 1–2 projects from the resume for "walk me through" deep-dives:
 
 ## Step 4 — Write output
 
-Write to `{recruitment_root}/Candidate/{name}/Interview.Prep.md`
+Write to `{recruitment_root}/Candidate/Ongoing/{name}/Interview.Prep.md`
