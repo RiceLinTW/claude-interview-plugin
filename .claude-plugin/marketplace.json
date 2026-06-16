@@ -4,7 +4,7 @@
   "plugins": [
     {
       "name": "interview",
-      "source": { "source": "directory", "path": "./" },
+      "source": "./",
       "description": "iOS interview prep pipeline — calendar, resume review, quiz generation, scoring, and end-to-end orchestration."
     }
   ]
